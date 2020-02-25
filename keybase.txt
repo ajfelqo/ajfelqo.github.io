@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/ifell
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ajfelqo.github.io
+  * I am ifell (https://keybase.io/ifell) on keybase.
+  * I have a public key with fingerprint 1CC2 655F 4FEF 8BA5 E998  4E30 CC62 5EAF 6094 27D2
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202270c16046d5a0d7025da3b09aa8c903d2b4cf09e22cae869c6e3c599583f4ef0a",
+      "fingerprint": "1cc2655f4fef8ba5e9984e30cc625eaf609427d2",
+      "host": "keybase.io",
+      "key_id": "cc625eaf609427d2",
+      "kid": "0101aa11201fea49b6705fbfb0f8f5ba22d1803123e0816961329f8c5366ecf1a5940a",
+      "uid": "42a4330fb935a23b59fe755e07d0a019",
+      "username": "ifell"
+    },
+    "merkle_root": {
+      "ctime": 1582634667,
+      "hash_meta": "4bf818122a36228ca62699babfec600f27fea147fd8fec46a2b02c26f868a850",
+      "seqno": 14733636
+    },
+    "revoke": {
+      "sig_ids": [
+        "74e31b8acdb626fb66143a2a7f0e10073db555a701083aabe70e28d451c7face0f"
+      ]
+    },
+    "service": {
+      "hostname": "ajfelqo.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1582634681,
+  "expire_in": 157680000,
+  "prev": "9df2c7b38fe0419920dcc6109b691ed5bbfd85c80240819753998b601b04eab3",
+  "seqno": 56,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMQGAnicbVN9TFZVHH4RU0ExlVTQULyk6HCv5557z7n3knO2KF3Y/FiWifB6zr3n
+vFzh/eD9QJAgZaVhzMSS5qJBNiUVIr9yLEEzlRj51SwXa8PNydDhSFHUGdZ5SdfW
+uv+c3XOe8zzP7/n9zum4aEds1E80p2ntJ6k/R3WcKg47clZOai6RqM8qltJLpDw2
+tLB8iwVDrjzbktIlIEMAoQZMGQMVW4gASwMQWUShwCBENw2gWJCqJgcGg9AkTMeG
+iZliIsNAusJVxgGR5krc9rpZwB+wvSFBK5smxAhxlTOuU4KYYegqU4BpYogY4RgY
+KtQsKC7m+oKRG8IcJUHmtH1iT/y4huz9D/6pbyATIgv3MmdENSjWAOKUU8B1jiiB
+0JJ1oMhQYUCXsYFlBRpcN5GCMTO5TJChDvkOD9GpkKiKAjg1FESgQpHBmYYQA5oF
+CJCNCDDIAl7iYQJtc5afL5XOlTwskJfPXAGfLxRJ1gzZkXMZ6RArKsaaqI4Ec10e
+FiIREcp1WZchJAqGUDcJhtgwKKGcmRgADjVRiqxq3NLFjooJpACKHLmOdaIjIEwE
+WYHXJxRUTVGwgoWFACv05bGIetB2i9CCUnqWpImsZaoT06JCg1OMZVUhkGgcMBkA
+TbEoQohoIkVdIYQyDTCoWyqSTY0TkwEuZZdG1AKFtjlEHunSk+rJOlF+gc/ptkO5
+YfpPw/wBX8hn+vLFcW4o5A+mR9IJFfsj+PWMup4wuajttcSgiBuFLBC0fV5Ri0D+
+JzhdniuxIr8dYC47gkAa1oH4IjqsUFAaFoemRhWRE1Blw4DAEpMiAzEGhswsRKnI
+EJk6gKrovqEhRcwfxUCmQGWEKv8mibDwSdyCU8TnJaFwgEmlp75fM9wRFesY8cyw
+yAtyxMaMe/quTgw++/iF2oN12+GbjxzZmf4Fd0JdjRc7pU3JZHxcxrpznVWpnuqk
+PQds57LbDn/Twi1fVZ2ZAVb/vqfo23cm24O1G1ZNObWifVzFy87tr4xfmJNoHRm4
+lLK19Nc1S/6o3+Qw1SntlzKOtB1trL9QB5YvuXB16YgtrVmNUor6rjPn7t3y7sqk
+XWknrrW4NrT7p72UklmTlrxowfBhs253x4zOun3Qc7P/5rZN+7IezPfEWBNeD5w9
+dAxfl1ru0e1ji9I6Wht7i2vWxZjxHTV9W7/srexpGz+mf+Yud8uxV/+a31MObpUt
+9mbFd7h/rB3xxcarM6KuPIqOXZp+tG9g42bfd6nXLp/dEY6+fnheXTj6z/OHBjvf
+Sw6c//rKokmXSyrIvd/iUx7X13w2ta+Ps50Tm8uOpuyzq0uTy/bj7OElTaPaJ/Uu
+b25bf+hOfeLWjudaEqt+mLW39XxTuXNMTO/oxW71vrMgi6LsouqB0UnfHP6lxltx
+8sbq2L0fNazMzk+4eGT6ixPDrSejPliJp386PzeVTT1zvGvagZGfNzcU9M1T12/5
+8GHt9FsNx9/e3ZKZcGd3/4PND8m58q6yCYM7L51eUcVfu27nJQ58nDS2M8Nz5fTk
+uDbnmoQ4/0BP5RsnihruvzUnftQcacP+nNl9acd2lCVkv9/T2XWuelRpT+XZhJkz
+ts0e2b22O3Sjf1n1xIyrz7tcq/4Gxrb/5Q==
+=I9QQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ifell
+
+==================================================================
